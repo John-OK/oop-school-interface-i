@@ -1,5 +1,5 @@
-from .staff import Staff
-from .student import Student
+from classes.staff import Staff
+from classes.student import Student
 
 class School:
     def __init__(self, name):

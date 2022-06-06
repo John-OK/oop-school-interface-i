@@ -1,4 +1,4 @@
-from .person import Person
+from classes.person import Person
 import csv
 
 class Student(Person):
