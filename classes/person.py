@@ -4,4 +4,3 @@ class Person:
         self.age = age
         self.password = password
         self.role = role
-        self.id = id

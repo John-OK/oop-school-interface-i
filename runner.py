@@ -7,3 +7,4 @@ print(school.name)
 print(school.staff)
 
 print(school.students)
+students =  school.students
